@@ -117,11 +117,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./Download_on_the_App_Store_Badge.svg.png');
+    background-image: url('fotos/Download_on_the_App_Store_Badge.svg.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./googleplay.png');
+    background-image: url('fotos/googleplay.png');
 }
 
 /* media queries */
